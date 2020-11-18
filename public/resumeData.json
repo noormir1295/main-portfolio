@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Noor Mir",
+    "occupation": "Full Stack Web Developer",
+    "description": "I like engaging in various parts of frontend/backend development and like to learn about new technologies",
+    "image": "noorprofilepic.jpeg",
+    "bio": "My name is Noor and I'm a Full Stack Web Developer. I recently graduated from the University of Miami's Web Development program. I am currently getting involved in learning Java so that I can expand my knowledge in programming.  I always believed that in order to become successful in life, one must practice what they love consistently.",
+    "contactmessage": "Get in touch with me to receive further details and job oppurtunites. Looking forward to meeting with you.",
+    "email": "",
+    "phone": "631-697-4997",
+    "address": {
+      "street": "noormir1295@gmail.com",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": ""
+    },
+
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/noor-mir-2378081b1/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/noormir1295",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These are the libraries and frameworks I have been familiar with in Javascript.",
+    "education": [
+      {
+        "school": "University of Miami",
+        "degree": "Full Stack Web Development",
+        "graduated": "December 2020",
+        "description": "Gaining Knowledge and creating projects in full-stack javascript"
+      },
+      {
+        "school": "Florida International University",
+        "degree": "Bachelors of Science in International Relations and Global Studies.",
+        "graduated": "December 2019"
+      }
+    ],
+    "work": [
+      {
+        "company": "International Air Transportion Association (IATA)",
+        "title": "Information Technology Intern (ITS)",
+        "years": "January 2020 - March 2020",
+        "description": "Provide Service Desk coverage during business hours for customers reporting incidents or seeking assistance in using the standard systems & applications. Provide high level technical support and coordination to cater for speedy resolution of complex incidents related to computer performance, connectivity, applications access and other IT services. Maintain the IT infrastructure and services in the Amman regional office and the rest of the AME cluster offices. Focus on maintaining user computers, printers, cell phones, with a professional attitude and service. First level software and hardware support through online guidance and second level support for problems demanding on-site troubleshooting and solution delivery"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "MYSQL/Sequelize",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Express",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weather Dashboard",
+        "category": "A responsive weather dashbaord application using Third-Party API",
+        "image": "weatherdashboard.jpeg",
+        "url": "https://noormir1295.github.io/WeatherDashboard/"
+      },
+      {
+        "title": "Stock Investor App",
+        "category": "A stock application that lets users see current stocks and articles related to those stocks.(Third-Party API)",
+        "image": "stock-app.jpeg",
+        "url": "https://swatso2020.github.io/Project1/"
+      },
+      {
+        "title": "Expense Management",
+        "category": "An application that helps keeping track of your budget using MYSQL & Sequelize",
+        "image": "expense-management.jpeg",
+        "url": "https://infinite-plains-92576.herokuapp.com/"
+      },
+      {
+        "title": "Daily Scheduler",
+        "category": "A daily scheduler application using front-end Javascript",
+        "image": "daily.jpeg",
+        "url": "https://noormir1295.github.io/dailyscheduler/"
+      },
+      {
+        "title": "Burger Logger",
+        "category": "An app that logs burger ate using self-made database with MYSQL",
+        "image": "burgerlogger.jpeg",
+        "url": "https://pure-sierra-72758.herokuapp.com/"
+      },
+      {
+        "title": "Budget Tracker",
+        "category": "A budget tracker using MongoDb that allows user to see how much budget is being spent.",
+        "image": "budget.jpeg",
+        "url": "https://dry-wave-63153.herokuapp.com/"
+      }
+    ]
+  }
+}
