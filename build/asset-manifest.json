@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/noormir1295/main-portfoliostatic/css/main.27fd15f6.chunk.css",
+    "main.js": "/noormir1295/main-portfoliostatic/js/main.dcba8b3d.chunk.js",
+    "main.js.map": "/noormir1295/main-portfoliostatic/js/main.dcba8b3d.chunk.js.map",
+    "runtime-main.js": "/noormir1295/main-portfoliostatic/js/runtime-main.4b90049d.js",
+    "runtime-main.js.map": "/noormir1295/main-portfoliostatic/js/runtime-main.4b90049d.js.map",
+    "static/js/2.e2d67bc9.chunk.js": "/noormir1295/main-portfoliostatic/js/2.e2d67bc9.chunk.js",
+    "static/js/2.e2d67bc9.chunk.js.map": "/noormir1295/main-portfoliostatic/js/2.e2d67bc9.chunk.js.map",
+    "index.html": "/noormir1295/main-portfolioindex.html",
+    "precache-manifest.b2496eddfdbb17f5f0e8060a48b46e0f.js": "/noormir1295/main-portfolioprecache-manifest.b2496eddfdbb17f5f0e8060a48b46e0f.js",
+    "service-worker.js": "/noormir1295/main-portfolioservice-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/noormir1295/main-portfoliostatic/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.e2d67bc9.chunk.js.LICENSE.txt": "/noormir1295/main-portfoliostatic/js/2.e2d67bc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b90049d.js",
+    "static/js/2.e2d67bc9.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.dcba8b3d.chunk.js"
+  ]
+}
